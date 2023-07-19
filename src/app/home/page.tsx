@@ -317,10 +317,10 @@ export default function Home() {
         <p className="p-2.5 text-center">
           Built by{" "}
           <a
-            href="https://www.github.com/ammarmbe"
+            href="https://www.github.com/brainstormbuddy"
             className="underline hover:text-[#d43232]"
           >
-            Ammar Elbehery
+             Adam Sims
           </a>
           , deployed on{" "}
           <a
@@ -338,7 +338,7 @@ export default function Home() {
           </a>
           . Code available on{" "}
           <a
-            href="https://github.com/ammarmbe/vibe-2.0"
+            href="https://github.com/brainstormbuddy/Vibe-2.0.git"
             className="underline hover:text-[#d43232]"
           >
             GitHub
